@@ -3,6 +3,16 @@
 # 🤖 Google Kaggle AI Agents Intensive Course  
 ### *"Mastering the Future of AI — One Agent at a Time"*
 
+<a href="https://www.kaggle.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" width="150"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.google.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="150"/>
+</a>
+
+<br><br>
+
 ![Kaggle](https://img.shields.io/badge/Platform-Kaggle-blue?style=for-the-badge&logo=kaggle)
 ![Duration](https://img.shields.io/badge/Duration-5%20Days-green?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Agents%20%7C%20MCP%20%7C%20LLM%20Engineering-yellow?style=for-the-badge)
